@@ -11,8 +11,8 @@ This module contains:
 -install file
 -routing file
 -src folder
-	-Form Directory
-	-Controller Directory
+   -Form Directory
+   -Controller Directory
 
 ---------------------------------------------------------
 MORE INFORMATION
